@@ -4,7 +4,7 @@
 坚持不懈，挥洒汗水。
 健康运动，健康饮食。
 
-![]()
+![](https://github.com/STTech/LeSports/blob/master/preview.png)
 
 【健康食谱】三分练，七分吃，健康的饮食是健康运动的前提
 【三种运动模式】走走、跑跑、骑行，三种模式全面应对日常运动
